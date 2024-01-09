@@ -50,12 +50,12 @@ Stringent validation checks during signup and login processes ensure data integr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/express-shopping-cart.git
+   git clone https://github.com/Jatin-synsoft/express-cart_mongoDB.git
    ```
 
 2. **Install Dependencies:**
    ```bash
-   cd express-shopping-cart
+   cd express-cart_mongoDB
    npm install
    ```
 
