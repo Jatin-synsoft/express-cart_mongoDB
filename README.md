@@ -63,7 +63,7 @@ Stringent validation checks during signup and login processes ensure data integr
    Set up your MongoDB database and update the connection details in the project.
 
 4. **Set Environment Variables:**
-   edit `.env` file based on the necessary variables accordinf to you.
+  Create a .env file based on the provided .env.example and set the necessary variables.
 
 5. **Run the Application:**
    ```bash
